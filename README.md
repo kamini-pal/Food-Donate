@@ -62,27 +62,27 @@ Key Features:
 
 Drivers or volunteers register themselves on the platform to take part in the donation process.
 Secure login ensures only verified individuals can participate.
-Pickup and Drop-off Management:
+<h1>Pickup and Drop-off Management:</h1>
 
 Assigned tasks show the pickup location (donor) and drop-off location (NGO/charity).
 Includes additional information like contact details, food type, and handling requirements.
-Real-Time Status Updates:
+<h3>Real-Time Status Updates:</h3>
 
 Delivery personnel can update the status (e.g., "picked up," "delivered") to keep Admins informed.
-How It Works:
+<h2>How It Works:</h2>
 
 A delivery person logs in and sees a list of assigned tasks.
 They pick up the food from the donor’s location and deliver it to the NGO, updating the system throughout the process.
 Technologies Used:
-Frontend:
+<h3>Frontend:</h3>
 
 HTML: For creating the structure of the web pages.
 CSS: For styling and designing a responsive interface.
 JavaScript: For interactive features like form validation, dynamic updates, and user experience enhancements.
-Backend:
+<h2>Backend:</h2>
 
 PHP: Handles server-side logic, including form submissions, authentication, and data processing.
-Database:
+<h3>Database:</h3>
 
 MySQL: Stores user information, donation records, NGO requests, and delivery statuses securely.
 Challenges Faced and Solutions Implemented:
@@ -107,20 +107,20 @@ Community Engagement:
 
 Encouraged active participation from individuals and organizations to contribute to a social cause.
 What I Learned:
-Technical Skills:
+<h3>Technical Skills:</h3>
 
 Full-stack development with a focus on integrating frontend and backend systems.
 Database management for storing and retrieving critical information securely.
-Problem-Solving:
+<h3>Problem-Solving:</h3>
 
 Addressed real-world challenges like coordinating multiple stakeholders in a single platform.
 Improved the efficiency of processes using structured workflows.
-Teamwork:
+<h3>Teamwork:</h3>
 
 Collaborated with others during design, development, and testing phases.
 Understood the importance of clear communication and feedback for project success.
-Why This Project is Relevant:
-This project highlights my ability to:
+<h2>Why This Project is Relevant:</h2>
+<h3>This project highlights my ability to:</h3>
 
 Build scalable and meaningful solutions for real-world problems.
 Effectively utilize technical skills to create user-friendly systems.
